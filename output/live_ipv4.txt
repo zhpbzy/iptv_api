@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-09-28,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+2026-10-01,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 📺┃广东频道,#genre#
 广州综合,http://r.jdshipin.com/iR6Gq$IPV4•线路1
 广州综合,http://r.jdshipin.com/snhya$IPV4•线路2
@@ -120,6 +120,7 @@ J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8$IPV4
 明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8$IPV4•线路8
 明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8$IPV4•线路9
 明珠台,http://hls.168.us.kg/u/84/master.m3u8$IPV4•线路10
+无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠$IPV4
 娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw$IPV4•线路1
 娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8$IPV4•线路2
 無線新聞台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/16991688/164.ts$IPV4•线路1
@@ -1543,7 +1544,6 @@ CGT法语咪咕,http://rihou.cc:555/tv/[mg]CGTN-法$IPV4•线路3
 海南卫视咪咕,http://rihou.cc:555/tv/[mg]海南卫视$IPV4
 🐟┃少儿频道,#genre#
 东森幼幼,https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn$IPV4
-momo亲子,https://live.ottiptv.cc/huya/23352563$IPV4
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8$IPV4
 卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8$IPV4•线路1
 卡酷少儿,http://111.43.126.240:9003/hls/71/index.m3u8$IPV4•线路2
